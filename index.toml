@@ -1,6 +1,10 @@
 hash-format = "sha256"
 
 [[files]]
+file = ".github/workflows/auto_export.yml"
+hash = "0846c0ffc40a15345959b73beebc1514e8360782e68344f276aa75d8f34dc3a9"
+
+[[files]]
 file = "LICENSE"
 hash = "d052e8c5456cc90dd4d44f0274072816ecd8062f73546f4618d1467b71a3796a"
 
@@ -10,23 +14,27 @@ hash = "47aff53fdaa3b9ca0460e0f1ab039057fe8e6f3c40025f709078475084d04df1"
 
 [[files]]
 file = "config/ViaFabric/viafabric.yml"
-hash = "c9ba0ce99435442454e00f2b1e068307694ade7d946c7b71dda4d32dac1d4d77"
+hash = "a83b75afe1fee784f085a029f014235a302af8b4c23c0c1527e5f7991c222514"
 
 [[files]]
 file = "config/ViaFabric/viaversion.yml"
-hash = "268ae8ca7c9c4c187821d04f70909f9abbf00b376c579576cce4bb502976f4a1"
+hash = "aa84ffae8da323f982fd4e570c5aa21cd1cd4e591ab270ddddd052ba3e73ed94"
 
 [[files]]
 file = "config/moreculling.toml"
-hash = "7c419df3f2ada99afd06088736f2e029afdf21802935c70b39c787188137d5c8"
+hash = "46699e21aedf87229a171f49286b3230553800cb1cbc0fa0fdd0e36ca88d9e2e"
 
 [[files]]
 file = "config/shulkerboxtooltip.json5"
-hash = "c98707a69c73c30efde6052c70d1275e6dea3e783420ff32ab53ea74d6244d58"
+hash = "73622510dca7cc2feea39dbd9c3da584c26164ac0bf2c786dc32480406236613"
+
+[[files]]
+file = "config/sodium-extra-options.json"
+hash = "27cfdbd63379307744c4cf3f6d7d4fa81edbbf591968738259712e811e3ea034"
 
 [[files]]
 file = "config/sodium-options.json"
-hash = "2032402b9fd467d5f0cb4a046d54dc4c387a2dcadb470646043abf0372e82a08"
+hash = "a95734224c6ef543b8a54b6f1348379137c6cfff0e2b7b397c54224184b6826b"
 
 [[files]]
 file = "config/zoomify.json"
@@ -179,7 +187,7 @@ metafile = true
 
 [[files]]
 file = "mods/shulkerboxtooltip.pw.toml"
-hash = "33e14af52da80c66dd89bd00fd0fba11a8096c75cca27f343ef6eced7f36911f"
+hash = "ba7e41a3e38799bc389f458fb943284673ee7d3ab821e3a232f08b272aa6e894"
 metafile = true
 
 [[files]]
@@ -204,7 +212,7 @@ metafile = true
 
 [[files]]
 file = "mods/tiefix.pw.toml"
-hash = "ff3303e9aec105be6281e7d907b0b3bcec2c3b977c7deff8184c0a8ffc17f027"
+hash = "5635af236610fc1042f52a9a1805d1ef6217e02762338866a4f05e3a9ffa22de"
 metafile = true
 
 [[files]]
@@ -229,7 +237,7 @@ metafile = true
 
 [[files]]
 file = "mods/zoomify.pw.toml"
-hash = "72214bf1c5210d1fd5d47f5fe354310ea7d7e1268eb48574c0655d6d4f4d5c42"
+hash = "c2692d94bf2d7a20afc4889b31f10314609018f17b1ba1923f3f1bf8b83c2c4b"
 metafile = true
 
 [[files]]
