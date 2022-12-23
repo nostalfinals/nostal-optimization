@@ -9,6 +9,30 @@ file = "README.md"
 hash = "47aff53fdaa3b9ca0460e0f1ab039057fe8e6f3c40025f709078475084d04df1"
 
 [[files]]
+file = "config/ViaFabric/viafabric.yml"
+hash = "c9ba0ce99435442454e00f2b1e068307694ade7d946c7b71dda4d32dac1d4d77"
+
+[[files]]
+file = "config/ViaFabric/viaversion.yml"
+hash = "268ae8ca7c9c4c187821d04f70909f9abbf00b376c579576cce4bb502976f4a1"
+
+[[files]]
+file = "config/moreculling.toml"
+hash = "7c419df3f2ada99afd06088736f2e029afdf21802935c70b39c787188137d5c8"
+
+[[files]]
+file = "config/shulkerboxtooltip.json5"
+hash = "c98707a69c73c30efde6052c70d1275e6dea3e783420ff32ab53ea74d6244d58"
+
+[[files]]
+file = "config/sodium-options.json"
+hash = "2032402b9fd467d5f0cb4a046d54dc4c387a2dcadb470646043abf0372e82a08"
+
+[[files]]
+file = "config/zoomify.json"
+hash = "e2b73cc2574ddf2fc81e1420b36fb5625be21fd44037a2eb663b7f15c3e5f3c6"
+
+[[files]]
 file = "mods/architectury-api.pw.toml"
 hash = "dcf4b5c0a6a31e391936fc427cefded6fc97c7e6f01337bbe9a19d539ef63e31"
 metafile = true
@@ -207,3 +231,7 @@ metafile = true
 file = "mods/zoomify.pw.toml"
 hash = "72214bf1c5210d1fd5d47f5fe354310ea7d7e1268eb48574c0655d6d4f4d5c42"
 metafile = true
+
+[[files]]
+file = "options.txt"
+hash = "50dd1b33e211fd11f9ba65d29a62ea94f9d0013a80d7ad845dc794bcf1e97667"
