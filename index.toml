@@ -154,6 +154,11 @@ hash = "5da49d5cbfcf1f11e81bd281ecc9b5f707c237e77872f6a372fc5b508c55e0d3"
 metafile = true
 
 [[files]]
+file = "mods/shulkerboxtooltip.pw.toml"
+hash = "33e14af52da80c66dd89bd00fd0fba11a8096c75cca27f343ef6eced7f36911f"
+metafile = true
+
+[[files]]
 file = "mods/smoothboot-fabric.pw.toml"
 hash = "7c0c3fdc225b1938ba7dc03cc06c3bc7e6e127617d6c1ffc77db1384f7544a75"
 metafile = true
