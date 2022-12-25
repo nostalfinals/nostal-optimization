@@ -21,6 +21,10 @@ file = "config/ViaFabric/viaversion.yml"
 hash = "aa84ffae8da323f982fd4e570c5aa21cd1cd4e591ab270ddddd052ba3e73ed94"
 
 [[files]]
+file = "config/inventoryprofilesnext/inventoryprofiles.json"
+hash = "03e4ca16e5b06f561263c65a6bc2f3d076c3fa2eeb6e09acf0a409628eb65594"
+
+[[files]]
 file = "config/moreculling.toml"
 hash = "46699e21aedf87229a171f49286b3230553800cb1cbc0fa0fdd0e36ca88d9e2e"
 
@@ -30,7 +34,7 @@ hash = "73622510dca7cc2feea39dbd9c3da584c26164ac0bf2c786dc32480406236613"
 
 [[files]]
 file = "config/sodium-extra-options.json"
-hash = "27cfdbd63379307744c4cf3f6d7d4fa81edbbf591968738259712e811e3ea034"
+hash = "846a8b04a6d0127bf196ca860ca0bbe1c4af3cfe34f9030b06a5fcb9d04e01d6"
 
 [[files]]
 file = "config/sodium-options.json"
@@ -116,6 +120,11 @@ hash = "60e7968beb40f57412d343a4ea70676286327a477937e2b9fd5985ac3c41bedb"
 metafile = true
 
 [[files]]
+file = "mods/inventory-profiles-next.pw.toml"
+hash = "8b6a16546236ebc75cddf84c534d9239f9fcf947d51b663027b18f419148fbc3"
+metafile = true
+
+[[files]]
 file = "mods/iris.pw.toml"
 hash = "24a04346814dbdbaa7b35334f0292c430ecb98d7021b823c6c18c800ec42333d"
 metafile = true
@@ -133,6 +142,11 @@ metafile = true
 [[files]]
 file = "mods/lazydfu.pw.toml"
 hash = "a2e62ebd7ce3187f7aa004aed7e4d11975104ae590ba1d3eb0ec319c30581574"
+metafile = true
+
+[[files]]
+file = "mods/libipn.pw.toml"
+hash = "24047c8f1b745cff62c0b2e35df3e1f77f46e58d901b4849b29b18dac0a6cf23"
 metafile = true
 
 [[files]]
