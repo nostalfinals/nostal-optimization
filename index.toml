@@ -249,6 +249,11 @@ file = "mods/viafabric.pw.toml.disabled"
 hash = "17a1f04d276b66f8ab09c102f6868cbd3806c1e956ea04fc4fb5c11f2cb11c7f"
 
 [[files]]
+file = "mods/viafabricplus.pw.toml"
+hash = "087056c9649976cf12b0d3b844d3efecc0545574157e3a951d0acf6a36ff814c"
+metafile = true
+
+[[files]]
 file = "mods/vmp-fabric.pw.toml"
 hash = "7c3eff18529e48a5a3ba5e73315478fa84f32bf040adca45a37b4ba5a02bccf9"
 metafile = true
