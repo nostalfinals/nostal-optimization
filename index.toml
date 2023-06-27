@@ -41,6 +41,22 @@ file = "config/sodium-options.json"
 hash = "a95734224c6ef543b8a54b6f1348379137c6cfff0e2b7b397c54224184b6826b"
 
 [[files]]
+file = "config/xaerominimap.txt"
+hash = "a2e624686b850cf49ba65a2d83ba2e5797b33baf119bd4f3591b08130912d286"
+
+[[files]]
+file = "config/xaerominimap_entities.json"
+hash = "1577bee3e9a82ac486f2097cd5837ee7acaa3dfd1284628d5c8237353f3ecd3c"
+
+[[files]]
+file = "config/xaeropatreon.txt"
+hash = "36a890045fce4aa69f1c550d5a49a62b336cbb7911a7afa6956fcce5d4d9dcb8"
+
+[[files]]
+file = "config/xaeroworldmap.txt"
+hash = "e40498f0e097f655770fc8698567618b62322088abc98d863f0a80ba69a239bf"
+
+[[files]]
 file = "config/zoomify.json"
 hash = "e2b73cc2574ddf2fc81e1420b36fb5625be21fd44037a2eb663b7f15c3e5f3c6"
 
@@ -256,6 +272,16 @@ metafile = true
 [[files]]
 file = "mods/vmp-fabric.pw.toml"
 hash = "7c3eff18529e48a5a3ba5e73315478fa84f32bf040adca45a37b4ba5a02bccf9"
+metafile = true
+
+[[files]]
+file = "mods/xaeros-minimap.pw.toml"
+hash = "fa7940ff6c6d65fede416632132a57518ab1a79e09014410932ed614ea386a70"
+metafile = true
+
+[[files]]
+file = "mods/xaeros-world-map.pw.toml"
+hash = "f8f30afc8349f40bfbe62d21aabf6caeca2d67a8cc2778296ce758b2763c5d8d"
 metafile = true
 
 [[files]]
