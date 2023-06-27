@@ -1,13 +1,13 @@
 name = "TieFix"
-filename = "TieFix-1.13.0.jar"
+filename = "TieFix-1.13.1.jar"
 side = "client"
 
 [download]
-url = "https://cdn.modrinth.com/data/jxuxsA0D/versions/NxIbz372/TieFix-1.13.0.jar"
+url = "https://cdn.modrinth.com/data/jxuxsA0D/versions/fMYs25DX/TieFix-1.13.1.jar"
 hash-format = "sha1"
-hash = "88f1f2499a9397f11b80861b4f6166bf4aed2d41"
+hash = "8aa7d14ee627c450b93cab6162e82deee09aa132"
 
 [update]
 [update.modrinth]
 mod-id = "jxuxsA0D"
-version = "NxIbz372"
+version = "fMYs25DX"
