@@ -216,6 +216,11 @@ hash = "7ca62a9da5c2ec9f0a8bed5394021c959e90077db16b313be44f4c8736f7fbf5"
 metafile = true
 
 [[files]]
+file = "mods/noxesium.pw.toml"
+hash = "081a81d7b1a1f81bfc0e4bf4269feebf8b05c7c0b84cdba2c3d873800e6f119c"
+metafile = true
+
+[[files]]
 file = "mods/qsl.pw.toml"
 hash = "be8073079bf41847c3aa1fb80c9941fa52b8c0ae39eb44a1475618d31c33e1d9"
 metafile = true
