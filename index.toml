@@ -22,7 +22,7 @@ hash = "aa84ffae8da323f982fd4e570c5aa21cd1cd4e591ab270ddddd052ba3e73ed94"
 
 [[files]]
 file = "config/inventoryprofilesnext/inventoryprofiles.json"
-hash = "7a947c88bd899d51e7b3d157b3657fc3dc6b273bd3acf1d1be3df528263ea6f8"
+hash = "21ad6a132760d7ccdc521d15dd0dfc83a2c78e1d5d1907313297cd25b9ef6e1f"
 
 [[files]]
 file = "config/moreculling.toml"
@@ -71,8 +71,9 @@ hash = "78bf078da5e46c2513889f86aa24e522d0651055b5a93a17341b96fdcba70b5e"
 metafile = true
 
 [[files]]
-file = "mods/cit-resewn.pw.toml.disabled"
-hash = "eb6cb8a8cde5c16bfe3c1f14353f362bc857621a9703579ff9aac154c8c975e9"
+file = "mods/cit-resewn.pw.toml"
+hash = "44e2cc695c040b7bbca462165099fa3c56a98aa8f01104bb067dc850b65f6d02"
+metafile = true
 
 [[files]]
 file = "mods/cloth-config.pw.toml"
@@ -224,17 +225,9 @@ file = "mods/server-pack-unlocker.pw.toml.disabled"
 hash = "e053efc45b146cc3d66ec1a723cd1ab03a1de3d1029d550e750f84329e6899c9"
 
 [[files]]
-file = "mods/servertick.pw.toml.disabled"
-hash = "5da49d5cbfcf1f11e81bd281ecc9b5f707c237e77872f6a372fc5b508c55e0d3"
-
-[[files]]
 file = "mods/shulkerboxtooltip.pw.toml"
 hash = "93c211301d7e69fff02f0057580d90302bed89dd79a433c33b458d6379865290"
 metafile = true
-
-[[files]]
-file = "mods/smoothboot-fabric.pw.toml.disabled"
-hash = "82312494cc4cb1b914968097ff27733905e6af5dec5829cdbdbc86e5c05b421e"
 
 [[files]]
 file = "mods/sodium-extra.pw.toml"
@@ -261,12 +254,8 @@ hash = "fe592547ec2aedf1de7add34f747f7845e103de228e2426328e9e60fe93298cc"
 metafile = true
 
 [[files]]
-file = "mods/viafabric.pw.toml.disabled"
-hash = "17a1f04d276b66f8ab09c102f6868cbd3806c1e956ea04fc4fb5c11f2cb11c7f"
-
-[[files]]
-file = "mods/viafabricplus.pw.toml"
-hash = "c7b79685eb5728a536700d6aebea28cfe972492b0a911e65be8177eaa4ad9e4c"
+file = "mods/viafabric.pw.toml"
+hash = "4eb70cd0e188073404dbe9c12f1ab2201307413f13431f98f5fc61ce8bc521e6"
 metafile = true
 
 [[files]]
