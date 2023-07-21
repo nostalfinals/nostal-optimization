@@ -1,0 +1,13 @@
+name = "Freecam (Fabric/Forge)"
+filename = "freecam-fabric-1.2.1+1.20.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "6b3cd76183cc840a9e40c7a4d648fafdc25e682f"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 4643134
+project-id = 557076

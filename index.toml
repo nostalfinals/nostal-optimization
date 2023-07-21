@@ -66,16 +66,6 @@ hash = "df19c411fd67e340ed687f781863a6d7fb9f1de666449df75ffe82136e45f9dc"
 metafile = true
 
 [[files]]
-file = "mods/boat-item-view.pw.toml"
-hash = "45ef79853a6e968323dadc477f2b68c046948a9e5b2445fed3ab5586598347cf"
-metafile = true
-
-[[files]]
-file = "mods/boathud.pw.toml"
-hash = "f351f6d8436e6148b06f381bfa00796537feeec943735179695beea6fbed1101"
-metafile = true
-
-[[files]]
 file = "mods/c2me-fabric.pw.toml"
 hash = "78bf078da5e46c2513889f86aa24e522d0651055b5a93a17341b96fdcba70b5e"
 metafile = true
@@ -88,11 +78,6 @@ metafile = true
 [[files]]
 file = "mods/cloth-config.pw.toml"
 hash = "b6348f94ec939f563285dc96683e61da8fc17ab2f2897be2751fa24789513691"
-metafile = true
-
-[[files]]
-file = "mods/continuity.pw.toml"
-hash = "8e73f68cbcbff53b6a00c30f371fc34a63c2ac2240af4792008d67dce74fb507"
 metafile = true
 
 [[files]]
@@ -117,12 +102,7 @@ metafile = true
 
 [[files]]
 file = "mods/fabric-language-kotlin.pw.toml"
-hash = "de9b5bac4165fb069bf6df9da2bb6028d50dd51fa0d294f0fb62d1d0c64b707b"
-metafile = true
-
-[[files]]
-file = "mods/fastanim.pw.toml"
-hash = "09282ae8265516057d5500cb489f0a8d3c563064d85582718a1efd6f3afb43be"
+hash = "ff4a66502e802341a84fbb8eceed65156b14436769b1f7e27a68b22fb59c1dae"
 metafile = true
 
 [[files]]
@@ -131,28 +111,18 @@ hash = "0e72ac12907f4fb5a499a459cc2c64f9225a0c77ee59e76c9360ff0d3479aea2"
 metafile = true
 
 [[files]]
-file = "mods/fastquit.pw.toml"
-hash = "88fea54c2bc4c3a0e65ec31a1f96b94ff1792e3362988fe719fa5e9de806f99a"
-metafile = true
-
-[[files]]
 file = "mods/ferrite-core.pw.toml"
 hash = "03e174cf691b52da20bd973b955fae6f3720d3d2120f9d6cc1de5fdf3180013c"
 metafile = true
 
 [[files]]
-file = "mods/freecam.pw.toml"
-hash = "81cb55170d352d0e7786b5a3f7c6f2ceeecd1f52c4559ee423598b4d62e10af6"
+file = "mods/free-cam.pw.toml"
+hash = "8af93cd9e1ac8e9f8c78cd78ce9c98e2ae2dbef60bcfd2358933dbdfae1cc318"
 metafile = true
 
 [[files]]
 file = "mods/gamma-utils.pw.toml"
 hash = "72fbf9c622177e41be79d2260dbd9821d48d176411bb2320d0da5e2778ccc2c9"
-metafile = true
-
-[[files]]
-file = "mods/hold-that-chunk.pw.toml"
-hash = "f12f0a9d2b3dd08d7bc0e980e56c6a953c2dee03796e70fac518b4c1c7abf78d"
 metafile = true
 
 [[files]]
@@ -173,11 +143,6 @@ metafile = true
 [[files]]
 file = "mods/iris.pw.toml"
 hash = "659e2447deffc797f441ed09c0b05d75138253dfacfe1479d3938e55773be4b6"
-metafile = true
-
-[[files]]
-file = "mods/krypton.pw.toml"
-hash = "71ef7cc16632c0039fe194183b5885968c6d740aaa67a58000653ae0cb40b882"
 metafile = true
 
 [[files]]
@@ -206,13 +171,13 @@ hash = "c239c951796882b9c93e649a0dba4f2d95804441faaed707b686381b7a5c67da"
 metafile = true
 
 [[files]]
-file = "mods/memoryleakfix.pw.toml"
-hash = "97ffbc7d0e4087777c5e3732780f01958f99d44c4f09fd534bbb8f239d4980a1"
+file = "mods/modernfix.pw.toml"
+hash = "b069be03cd4e76ff934e079cb3103101dba440ad9343b904967b06fc8a075e0f"
 metafile = true
 
 [[files]]
 file = "mods/modmenu.pw.toml"
-hash = "e00217e8327711e7d6acf95814212d9398499bc15cde7a3ec4ca4417393a8fbc"
+hash = "e2a93bfe1d1e55657afd64a361b1d05929c8984332f1c39afd957eb7f88e9a62"
 metafile = true
 
 [[files]]
@@ -226,11 +191,6 @@ hash = "7ca62a9da5c2ec9f0a8bed5394021c959e90077db16b313be44f4c8736f7fbf5"
 metafile = true
 
 [[files]]
-file = "mods/noxesium.pw.toml"
-hash = "081a81d7b1a1f81bfc0e4bf4269feebf8b05c7c0b84cdba2c3d873800e6f119c"
-metafile = true
-
-[[files]]
 file = "mods/qsl.pw.toml"
 hash = "be8073079bf41847c3aa1fb80c9941fa52b8c0ae39eb44a1475618d31c33e1d9"
 metafile = true
@@ -241,8 +201,9 @@ hash = "a1d419cad5a32a4a442b37b2e2fe2db3e761429d6ab60dd3bb79f43d36df2297"
 metafile = true
 
 [[files]]
-file = "mods/server-pack-unlocker.pw.toml.disabled"
+file = "mods/server-pack-unlocker.pw.toml"
 hash = "e053efc45b146cc3d66ec1a723cd1ab03a1de3d1029d550e750f84329e6899c9"
+metafile = true
 
 [[files]]
 file = "mods/shulkerboxtooltip.pw.toml"
@@ -260,12 +221,8 @@ hash = "217b07516517c4c01958387192143943f3e9309a0e935828f9f32af771425d66"
 metafile = true
 
 [[files]]
-file = "mods/starlight.pw.toml.disabled"
-hash = "60dbdc5acba0392fa923fbbae580d216f2a3dac4b7ab8056fe28e7e4de8331f2"
-
-[[files]]
-file = "mods/tiefix.pw.toml"
-hash = "800a89db61c98c45e84e24c3f022d9b1d29bdc2a915035715f8a517c9bec784b"
+file = "mods/threadtweak.pw.toml"
+hash = "bb044cd95d56fb9e1f52a8c18a843df8daf56d22a822568112e9dfa28dab7926"
 metafile = true
 
 [[files]]
@@ -280,7 +237,7 @@ metafile = true
 
 [[files]]
 file = "mods/vmp-fabric.pw.toml"
-hash = "7c3eff18529e48a5a3ba5e73315478fa84f32bf040adca45a37b4ba5a02bccf9"
+hash = "dc3970e3d66599050e917319f42a8a002f2ec0ed744d3140acc5a6f3d032199f"
 metafile = true
 
 [[files]]
