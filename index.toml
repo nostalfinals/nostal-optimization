@@ -14,11 +14,19 @@ hash = "47aff53fdaa3b9ca0460e0f1ab039057fe8e6f3c40025f709078475084d04df1"
 
 [[files]]
 file = "config/ViaFabric/viafabric.yml"
-hash = "a83b75afe1fee784f085a029f014235a302af8b4c23c0c1527e5f7991c222514"
+hash = "d1d5fdb4d09ee967ce57250fd48eacbf105f2b04f4a77ccb9cfee5d973cc8424"
 
 [[files]]
 file = "config/ViaFabric/viaversion.yml"
-hash = "aa84ffae8da323f982fd4e570c5aa21cd1cd4e591ab270ddddd052ba3e73ed94"
+hash = "75d0cfd9167cbbb923d414b3bffa8e445d4929e00d15d3fc8957f9d665419beb"
+
+[[files]]
+file = "config/inventoryprofilesnext/New World/villager-trading-config.json"
+hash = "900a5d6592eaefcc3812b240e2efc8a48eb4edb5684a0435feebeaa18992aaf3"
+
+[[files]]
+file = "config/inventoryprofilesnext/integrationHints/exampleIntegrationHints.json"
+hash = "ca413dea02cce69c69dccdc525fb0ec013236876eff2d142772c68db3d772d3a"
 
 [[files]]
 file = "config/inventoryprofilesnext/inventoryprofiles.json"
@@ -26,7 +34,7 @@ hash = "21ad6a132760d7ccdc521d15dd0dfc83a2c78e1d5d1907313297cd25b9ef6e1f"
 
 [[files]]
 file = "config/moreculling.toml"
-hash = "46699e21aedf87229a171f49286b3230553800cb1cbc0fa0fdd0e36ca88d9e2e"
+hash = "8c57f8e49cf9fdb8956459fb7a60d37fe9c7ada6a57971574bb1c4683516995f"
 
 [[files]]
 file = "config/shulkerboxtooltip.json5"
@@ -38,7 +46,7 @@ hash = "846a8b04a6d0127bf196ca860ca0bbe1c4af3cfe34f9030b06a5fcb9d04e01d6"
 
 [[files]]
 file = "config/sodium-options.json"
-hash = "a95734224c6ef543b8a54b6f1348379137c6cfff0e2b7b397c54224184b6826b"
+hash = "47d50eaae1e3d5e26d54b0c9bed190748dbf23d1a58e792252adba15bceaf00d"
 
 [[files]]
 file = "config/xaerominimap.txt"
@@ -262,4 +270,4 @@ metafile = true
 
 [[files]]
 file = "options.txt"
-hash = "50dd1b33e211fd11f9ba65d29a62ea94f9d0013a80d7ad845dc794bcf1e97667"
+hash = "d2441409739b87b2f48ec4f7c1aac80ebb7d2184b8be61b5ddbe27ac7dd61869"

@@ -1,12 +1,12 @@
-name = "Nostal's Optimization Pack"
-author = "NostalFinals"
-version = "1.0.1"
+name = "nostal-optimization"
+author = "Nostal Yuu"
+version = "1.2.0"
 pack-format = "packwiz:1.1.0"
 
 [index]
 file = "index.toml"
 hash-format = "sha256"
-hash = "c4cd656539cc6f464af7a7ef7b58e5fdb4deb1e7cade5ea38316e0573eca90f5"
+hash = "b88b9513170627a613d638cdd71f04278b0fdd93215280a3c3d158ce506667d7"
 
 [versions]
 minecraft = "1.20.1"
