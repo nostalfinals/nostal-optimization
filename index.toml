@@ -62,12 +62,12 @@ hash = "e2b73cc2574ddf2fc81e1420b36fb5625be21fd44037a2eb663b7f15c3e5f3c6"
 
 [[files]]
 file = "mods/architectury-api.pw.toml"
-hash = "df19c411fd67e340ed687f781863a6d7fb9f1de666449df75ffe82136e45f9dc"
+hash = "a243675bc757485925b293932ee289b9fbcfb3b75bd3ba74eca7603f191cedad"
 metafile = true
 
 [[files]]
 file = "mods/c2me-fabric.pw.toml"
-hash = "78bf078da5e46c2513889f86aa24e522d0651055b5a93a17341b96fdcba70b5e"
+hash = "084ec914d4aba5a139e1bfaeb67c6a6c7cf1ba22cfbf5ef96a46db49c830db96"
 metafile = true
 
 [[files]]
@@ -122,17 +122,17 @@ metafile = true
 
 [[files]]
 file = "mods/gamma-utils.pw.toml"
-hash = "72fbf9c622177e41be79d2260dbd9821d48d176411bb2320d0da5e2778ccc2c9"
+hash = "ee779202ba08c0832c35aa1e073e0d3afbbc21cfe7bc5228253c3c1954a25d17"
 metafile = true
 
 [[files]]
 file = "mods/immediatelyfast.pw.toml"
-hash = "a154087f80d2179cabd05cf7629c29c06c5a62538e70f7c58021dd1d4f9e3e3a"
+hash = "c6d8874cf9da3455fc3f339d758e4ed50a18f41339e74729bd73cf7de532860b"
 metafile = true
 
 [[files]]
 file = "mods/indium.pw.toml"
-hash = "85daf558c36022a664c9e2bc3d9a9bc21cb9fa62977890f142c20ccc155eae36"
+hash = "b3def581679abd846bc3d5b6de7ff0abd6ce4212fc17390e0ba8455b769c18d9"
 metafile = true
 
 [[files]]
@@ -142,7 +142,7 @@ metafile = true
 
 [[files]]
 file = "mods/iris.pw.toml"
-hash = "659e2447deffc797f441ed09c0b05d75138253dfacfe1479d3938e55773be4b6"
+hash = "b73d4f34c666ccc6785a6f27207e4658951a6935590f06178b30f51876f93264"
 metafile = true
 
 [[files]]
@@ -172,7 +172,7 @@ metafile = true
 
 [[files]]
 file = "mods/modernfix.pw.toml"
-hash = "b069be03cd4e76ff934e079cb3103101dba440ad9343b904967b06fc8a075e0f"
+hash = "3ed4c34774f70f80b5625d154f992a0fd72d8cea7fd0a2287027b9681c662a0b"
 metafile = true
 
 [[files]]
@@ -192,12 +192,12 @@ metafile = true
 
 [[files]]
 file = "mods/qsl.pw.toml"
-hash = "be8073079bf41847c3aa1fb80c9941fa52b8c0ae39eb44a1475618d31c33e1d9"
+hash = "6ff7c68fb86e72f9f9feb1858e04cd2b7f80efda3b6819d484806a4316215557"
 metafile = true
 
 [[files]]
 file = "mods/reeses-sodium-options.pw.toml"
-hash = "a1d419cad5a32a4a442b37b2e2fe2db3e761429d6ab60dd3bb79f43d36df2297"
+hash = "16edb6e9b2eb85405f9a3e4ac7159a0c00a9d47bfb4dc9d5b548bca37245fc06"
 metafile = true
 
 [[files]]
@@ -212,12 +212,12 @@ metafile = true
 
 [[files]]
 file = "mods/sodium-extra.pw.toml"
-hash = "0906da8c52ef97aa073b150915eea98647ed1ad2445c4d2c91512acb32af8a30"
+hash = "5c1e9362bfd60c41ce752056b2db0e2a16e6ae879265ecf8cc1d5a54dd6ffe9f"
 metafile = true
 
 [[files]]
 file = "mods/sodium.pw.toml"
-hash = "217b07516517c4c01958387192143943f3e9309a0e935828f9f32af771425d66"
+hash = "a854add3a6d3c819613fdd2eeedde9ff22cdcc81cce9033938abeff2afe129df"
 metafile = true
 
 [[files]]
@@ -237,27 +237,27 @@ metafile = true
 
 [[files]]
 file = "mods/vmp-fabric.pw.toml"
-hash = "dc3970e3d66599050e917319f42a8a002f2ec0ed744d3140acc5a6f3d032199f"
+hash = "93e2bb699bae8854559b94395f8d3468682f61b52db24a8a076b946a87635e3c"
 metafile = true
 
 [[files]]
 file = "mods/xaeros-minimap.pw.toml"
-hash = "fa7940ff6c6d65fede416632132a57518ab1a79e09014410932ed614ea386a70"
+hash = "a8e862ee757fdb46cf593a21f87d080823e781629a0f7614b753101891eafc72"
 metafile = true
 
 [[files]]
 file = "mods/xaeros-world-map.pw.toml"
-hash = "f8f30afc8349f40bfbe62d21aabf6caeca2d67a8cc2778296ce758b2763c5d8d"
+hash = "6a28e80a529c1eda8b114d48554b38b680a19e592aed811b8af53c3b9d18e3d7"
 metafile = true
 
 [[files]]
 file = "mods/yacl.pw.toml"
-hash = "796239ec3e198ff16d27b144d24f813da260ee25c7342cf5487f0db0843f1c29"
+hash = "2008716fdfef554660ce44659a3a42acd673a5391af2d4bd94f40654f1f60a1d"
 metafile = true
 
 [[files]]
 file = "mods/zoomify.pw.toml"
-hash = "fe67f559bf7c07593f1eb0e3cfabb56635de7e566b26241559452dc04484bd4e"
+hash = "5f5f3db8824093d650ea00c5f860c9532288310521ca2aa3689635d6d0910016"
 metafile = true
 
 [[files]]
