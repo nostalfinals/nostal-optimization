@@ -26,7 +26,7 @@ hash = "21ad6a132760d7ccdc521d15dd0dfc83a2c78e1d5d1907313297cd25b9ef6e1f"
 
 [[files]]
 file = "config/moreculling.toml"
-hash = "8c57f8e49cf9fdb8956459fb7a60d37fe9c7ada6a57971574bb1c4683516995f"
+hash = "89c13d8e873e1a8b103012c397374b281c3bf154d12dbec567167c9ba7f26896"
 
 [[files]]
 file = "config/shulkerboxtooltip.json5"
