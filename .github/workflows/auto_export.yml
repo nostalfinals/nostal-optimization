@@ -22,6 +22,6 @@ jobs:
           title: "Release"
           automatic_release_tag: "release"
           repo_token: "${{ secrets.GITHUB_TOKEN }}"
-          files: "./Nostal's Optimization Pack-*"
+          files: "./nostal-optimization-*"
           prerelease: false
       

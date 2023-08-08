@@ -2,7 +2,7 @@ hash-format = "sha256"
 
 [[files]]
 file = ".github/workflows/auto_export.yml"
-hash = "f61015dfc13c18de10578451a9f02f96c7e73505e60c117353660080da309856"
+hash = "5de0fda4a7817fb014bca1b5acd593bf3379103ed9140c90afdb7735ff0a51b7"
 
 [[files]]
 file = "LICENSE"
@@ -19,14 +19,6 @@ hash = "d1d5fdb4d09ee967ce57250fd48eacbf105f2b04f4a77ccb9cfee5d973cc8424"
 [[files]]
 file = "config/ViaFabric/viaversion.yml"
 hash = "75d0cfd9167cbbb923d414b3bffa8e445d4929e00d15d3fc8957f9d665419beb"
-
-[[files]]
-file = "config/inventoryprofilesnext/New World/villager-trading-config.json"
-hash = "900a5d6592eaefcc3812b240e2efc8a48eb4edb5684a0435feebeaa18992aaf3"
-
-[[files]]
-file = "config/inventoryprofilesnext/integrationHints/exampleIntegrationHints.json"
-hash = "ca413dea02cce69c69dccdc525fb0ec013236876eff2d142772c68db3d772d3a"
 
 [[files]]
 file = "config/inventoryprofilesnext/inventoryprofiles.json"
@@ -270,4 +262,4 @@ metafile = true
 
 [[files]]
 file = "options.txt"
-hash = "d2441409739b87b2f48ec4f7c1aac80ebb7d2184b8be61b5ddbe27ac7dd61869"
+hash = "e69cf6112d2cc2e6fbbade14b7d596fb588494167821db1bef0757aaadc25557"
