@@ -67,7 +67,7 @@ metafile = true
 
 [[files]]
 file = "mods/c2me-fabric.pw.toml"
-hash = "084ec914d4aba5a139e1bfaeb67c6a6c7cf1ba22cfbf5ef96a46db49c830db96"
+hash = "ec814ceecff372922e141f57bfaf2206dc54b0d977a265cd5cde4aefd4cc9c00"
 metafile = true
 
 [[files]]
@@ -102,7 +102,7 @@ metafile = true
 
 [[files]]
 file = "mods/fabric-api.pw.toml"
-hash = "1795389ea718d749e68cd985ecd5bf1d0e865a0ad71570263669bfd0f353ecc4"
+hash = "3a93a5b987d89b3ce4208d1e31b3a5636fc6363ff33896f5a7ad8961df94a236"
 metafile = true
 
 [[files]]
@@ -132,12 +132,12 @@ metafile = true
 
 [[files]]
 file = "mods/immediatelyfast.pw.toml"
-hash = "c6d8874cf9da3455fc3f339d758e4ed50a18f41339e74729bd73cf7de532860b"
+hash = "6a5b36909dddce957a6a6bb567218b9c400ed183749ff9cb12d4a42964d9bf5d"
 metafile = true
 
 [[files]]
 file = "mods/indium.pw.toml"
-hash = "b3def581679abd846bc3d5b6de7ff0abd6ce4212fc17390e0ba8455b769c18d9"
+hash = "493574c6b2cb8fccb0cdf9c4385c41ce9e0f79e24320f2ed7955e819f37b7a55"
 metafile = true
 
 [[files]]
@@ -147,7 +147,7 @@ metafile = true
 
 [[files]]
 file = "mods/iris.pw.toml"
-hash = "b73d4f34c666ccc6785a6f27207e4658951a6935590f06178b30f51876f93264"
+hash = "5aa33cf19de168fa9da2421aff76367a5b7206d9f5ffd1dbbce4bff2a47a88ef"
 metafile = true
 
 [[files]]
@@ -177,7 +177,7 @@ metafile = true
 
 [[files]]
 file = "mods/modernfix.pw.toml"
-hash = "3ed4c34774f70f80b5625d154f992a0fd72d8cea7fd0a2287027b9681c662a0b"
+hash = "5f7c27afd4a91b1296dfe4f6edfdf14c88b34af812d8d18db48529874398b84f"
 metafile = true
 
 [[files]]
@@ -217,7 +217,7 @@ metafile = true
 
 [[files]]
 file = "mods/sodium.pw.toml"
-hash = "a854add3a6d3c819613fdd2eeedde9ff22cdcc81cce9033938abeff2afe129df"
+hash = "17831880d734824e34609ee8f6b6ca677b9dc093a6c6360f86d44b3c66bfd7db"
 metafile = true
 
 [[files]]
