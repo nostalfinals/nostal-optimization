@@ -1,13 +1,13 @@
 name = "Gamma Utils"
-filename = "Gamma-Utils-1.7.16-mc1.20.1.jar"
+filename = "Gamma-Utils-1.7.18-mc1.20.3.jar"
 side = "client"
 
 [download]
-url = "https://cdn.modrinth.com/data/wdLuzzEP/versions/qCrk9Btw/Gamma-Utils-1.7.16-mc1.20.1.jar"
+url = "https://cdn.modrinth.com/data/wdLuzzEP/versions/jVlG1ygl/Gamma-Utils-1.7.18-mc1.20.3.jar"
 hash-format = "sha1"
-hash = "9ee543857f50fb5379f2281df10b64f28b3f4618"
+hash = "2bfd50fe9f3882506cc81184b16280b459ddf348"
 
 [update]
 [update.modrinth]
 mod-id = "wdLuzzEP"
-version = "qCrk9Btw"
+version = "jVlG1ygl"
