@@ -2,7 +2,7 @@ hash-format = "sha256"
 
 [[files]]
 file = ".github/workflows/auto_export.yml"
-hash = "0ca4f0857f2dae973ee2a88bde7aa0687a42c62e6ab7e3f43f221db41452f990"
+hash = "fc9164ddc20162eaca015effae7879ba2a5eb70cdcc9a64b902cb524cd4e37e8"
 
 [[files]]
 file = "LICENSE"
@@ -68,6 +68,11 @@ metafile = true
 [[files]]
 file = "mods/cloth-config.pw.toml"
 hash = "13ae813426f52226d8363499d722df0933e84534f216eef127c198c18bcdbb6b"
+metafile = true
+
+[[files]]
+file = "mods/cubes-without-borders.pw.toml"
+hash = "a90139b002d632ba9256cb3e7e877945bf8e3afa5b191d1adc83c5e3eb72da4c"
 metafile = true
 
 [[files]]
