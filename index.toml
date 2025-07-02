@@ -77,12 +77,12 @@ metafile = true
 
 [[files]]
 file = "mods/debugify.pw.toml"
-hash = "9adbf88eeabbb76bd74ce7ff91a9e22d94df0a8aab18918e72044b1136f5cbc2"
+hash = "bbf9d695a6bc75a6126aa49591f2ac0545bc3c20e370949ce3b4105b9405fb8a"
 metafile = true
 
 [[files]]
 file = "mods/dynamic-fps.pw.toml"
-hash = "3c93ec937ac334843447418da8f7f810cdf32a8c21b90eafc39c7604cf7c32f6"
+hash = "7ade9694388d80def1aba6b3653a1a0ea8a68eb14a42e2bffd076fd1335a5ce8"
 metafile = true
 
 [[files]]
@@ -92,7 +92,7 @@ metafile = true
 
 [[files]]
 file = "mods/fabric-api.pw.toml"
-hash = "3d5da87182e681fc30531abe525662e988d605b7ed77346ea664aacc82004a21"
+hash = "f147a115ed7b2e1d8d28c349178ed58a381e7edd6d719648eff6333cbf40e88c"
 metafile = true
 
 [[files]]
@@ -107,7 +107,7 @@ metafile = true
 
 [[files]]
 file = "mods/free-cam.pw.toml"
-hash = "4f1bc40b36ead48ff5ec79489c7146c5e4137a59a069eefb1e93f2b9ed97b0b0"
+hash = "8baeb1b44b28ada2cceb9f73685061d352614db7fbdd3108f332d38607ea9538"
 metafile = true
 
 [[files]]
@@ -117,7 +117,7 @@ metafile = true
 
 [[files]]
 file = "mods/immediatelyfast.pw.toml"
-hash = "3b40d08928ac413cc62a4fc93497aad63b3928f1aa5d94abe36c6239871e979f"
+hash = "9d6b46943f6ad2518f3acb4598d4afdb74843a069dde3cd7c9fa8dd89723de50"
 metafile = true
 
 [[files]]
@@ -127,7 +127,7 @@ metafile = true
 
 [[files]]
 file = "mods/iris.pw.toml"
-hash = "e3ed2c112bfe0abbc4d2c52c7d4c2086fe136e133784775c2f5a43d8f899868c"
+hash = "f9acd9fa6c8e3e28c54f196c3840ae9227265a966d511e21be5056951706ea00"
 metafile = true
 
 [[files]]
@@ -142,12 +142,8 @@ metafile = true
 
 [[files]]
 file = "mods/lithium.pw.toml"
-hash = "11b5a9241c028f5e3cf9befd6975ec80cff1497a7dd23dde17c0f74e9a7b7a52"
+hash = "78d3414d086eeffc1e271cc189ea7a33d1dc2ed6f570f39e4abe4b33fc0acc58"
 metafile = true
-
-[[files]]
-file = "mods/modernfix.pw.toml.disabled"
-hash = "90d2ed4792a7e58a04a8669b28a3fc494808fe8e43ba05bc9211b243e966d464"
 
 [[files]]
 file = "mods/modmenu.pw.toml"
@@ -161,7 +157,7 @@ metafile = true
 
 [[files]]
 file = "mods/no-chat-reports.pw.toml"
-hash = "db7ff8c81e6148993d3b4f9e7c6bfead3350e9ce8ea1824d4987f74c7c026a63"
+hash = "ba94fd9dd7d5148b511c24460a281143c3a5d02b859e66732f6121aee6625f0d"
 metafile = true
 
 [[files]]
@@ -186,12 +182,12 @@ metafile = true
 
 [[files]]
 file = "mods/viafabricplus.pw.toml"
-hash = "9019714c3a60f21d361c959cbbfad64294f79e31305feb4c5b4811ae4b0a0888"
+hash = "0f6f6ec1f52b7d344de2b1231b1282085c92849f51eae44034ce63ab0498ae8d"
 metafile = true
 
 [[files]]
 file = "mods/vmp-fabric.pw.toml"
-hash = "05900efb4cdaf32033674639fc83525f47b33afdfb8e693930883cf4842fdc84"
+hash = "1b2dee1ebac6f5ca706650c43284503273fdde8056683d6734308542ff272e6e"
 metafile = true
 
 [[files]]
