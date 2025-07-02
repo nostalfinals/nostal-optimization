@@ -3,6 +3,9 @@
         "highlight_foused_items": {
             "value": false
         },
+        "enable_lock_slots": {
+            "value": false
+        },
         "enable_auto_refill": {
             "value": false
         },
