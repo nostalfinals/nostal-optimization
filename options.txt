@@ -13,7 +13,7 @@ glintSpeed:0.5
 glintStrength:0.75
 prioritizeChunkUpdates:0
 fullscreen:false
-graphicsMode:0
+graphicsMode:1
 guiScale:4
 maxFps:260
 inactivityFpsLimit:"afk"
@@ -21,10 +21,10 @@ mipmapLevels:4
 narrator:0
 particles:0
 reducedDebugInfo:false
-renderClouds:"fast"
+renderClouds:"true"
 cloudRange:128
-renderDistance:12
-simulationDistance:10
+renderDistance:16
+simulationDistance:12
 screenEffectScale:1.0
 soundDevice:""
 autoJump:false
