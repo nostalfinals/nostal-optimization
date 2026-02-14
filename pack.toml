@@ -1,12 +1,12 @@
 name = "nostal-optimization"
 author = "Nostal Yuu"
-version = "1.5.0"
+version = "1.6.0"
 pack-format = "packwiz:1.1.0"
 
 [index]
 file = "index.toml"
 hash-format = "sha256"
-hash = "97a40aaf3eb3a5211d2c23141e5dc87c8a40ad94dc9904a17966e4f33665ea2e"
+hash = "967a0337848f58dac95346116c3a07f34ca1371a205b7d72c7efe4fd9a9f75b3"
 
 [versions]
 fabric = "0.18.4"

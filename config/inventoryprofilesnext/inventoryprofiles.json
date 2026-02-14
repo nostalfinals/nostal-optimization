@@ -1,19 +1,35 @@
 {
-    "ModSettings": {
-        "highlight_foused_items": {
-            "value": false
-        },
+    "Features": {
         "enable_lock_slots": {
             "value": false
         },
         "enable_auto_refill": {
             "value": false
         },
+        "highlight_foused_items": {
+            "value": false
+        }
+    },
+    "ModSettings": {
         "enable_updates_check": false,
-        "first_run": false
+        "first_run": false,
+        "enable_lock_slots": {
+            "value": false
+        },
+        "enable_auto_refill": {
+            "value": false
+        },
+        "highlight_foused_items": {
+            "value": false
+        }
     },
     "GuiSettings": {
         "continuous_crafting_saved_value": false
+    },
+    "LockedSlotsSettings": {
+        "enable_lock_slots": {
+            "value": false
+        }
     },
     "AutoRefillSettings": {
         "auto_refill_enable_indicator_icons": {
