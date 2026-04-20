@@ -2,7 +2,7 @@ name: Auto export & Release
 
 on:
   push:
-    branches: [ "1.21.11" ]
+    branches: [ "26.1" ]
 
 jobs:
   build:
