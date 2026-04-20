@@ -8,15 +8,30 @@
         },
         "highlight_foused_items": {
             "value": false
+        },
+        "enable_profiles": {
+            "value": false
+        },
+        "villager_trading_enable": {
+            "value": false
+        },
+        "item_scrolling": {
+            "value": false
         }
     },
     "ModSettings": {
         "enable_updates_check": false,
         "first_run": false,
+        "enable_profiles": {
+            "value": false
+        },
         "enable_lock_slots": {
             "value": false
         },
         "enable_auto_refill": {
+            "value": false
+        },
+        "villager_trading_enable": {
             "value": false
         },
         "highlight_foused_items": {
@@ -36,6 +51,11 @@
             "value": false
         },
         "auto_refill_enable_horbar_indicator_icons": {
+            "value": false
+        }
+    },
+    "EditProfiles": {
+        "enable_profiles": {
             "value": false
         }
     },
