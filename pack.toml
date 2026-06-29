@@ -1,16 +1,16 @@
 name = "nostal-optimization"
 author = "Nostal Yuu"
-version = "1.7.0"
+version = "1.8.0"
 pack-format = "packwiz:1.1.0"
 
 [index]
 file = "index.toml"
 hash-format = "sha256"
-hash = "a60be8cff8e5f9401199540c73f2dcbbc64af0517ebe9dc19a96ce206882aad1"
+hash = "ab022042667ec7abfcabeeeead468a4a6c7896a1e7532add9c35a22e95203e98"
 
 [versions]
-fabric = "0.19.2"
-minecraft = "26.1"
+fabric = "0.19.3"
+minecraft = "26.2"
 
 [options]
-acceptable-game-versions = ["26.1"]
+acceptable-game-versions = ["26.2"]
